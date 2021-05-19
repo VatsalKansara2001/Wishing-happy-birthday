@@ -14,7 +14,7 @@ body {
   width: 100%;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)),
-    url(images/bg.jpg) center no-repeat;
+    url(bg.jpg) center no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -36,7 +36,7 @@ body {
   width: 50%;
   height: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
-    url(images/card-bg.jpg) no-repeat;
+    url(card-bg.jpg) no-repeat;
   background-size: cover;
   background-position-x: 0;
   transform: rotateY(0deg);
@@ -52,7 +52,7 @@ body {
   width: 50%;
   height: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
-    url(images/card-bg.jpg) no-repeat;
+    url(card-bg.jpg) no-repeat;
   background-size: cover;
   background-position-x: -12.5rem;
   transform: rotateY(0deg);
@@ -70,7 +70,7 @@ body {
   justify-content: center;
   align-items: flex-end;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),
-    url(images/face-image.jfif) center no-repeat;
+    url(face-image.jfif) center no-repeat;
   background-size: cover;
   background-color: chocolate;
   z-index: -1;
